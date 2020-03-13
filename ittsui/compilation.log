@@ -1,0 +1,336 @@
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:19 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: Unity.TextMeshPro.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-51f9c939cd019f04daab76394c787b88
+Exit code: 0
+Elapsed time: 3.39 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Unity.TextMeshPro.dll
+Exit code: 0
+Elapsed time: 0.15 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:19 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: UnityEditor.StandardEvents.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-0999c4b9994608745ade25bb20e25f72
+Exit code: 0
+Elapsed time: 3.15 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\UnityEditor.StandardEvents.dll
+Exit code: 0
+Elapsed time: 0.21 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:19 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: Unity.PackageManagerUI.Editor.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-1223f43aa0c73bb4c943c86bbdc5ff9b
+Exit code: 0
+Elapsed time: 3.19 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Unity.PackageManagerUI.Editor.dll
+Exit code: 0
+Elapsed time: 0.21 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:23 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: Unity.TextMeshPro.Editor.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-33f713b5f18278f419cb1d85b719d4df
+Exit code: 0
+Elapsed time: 1.04 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Unity.TextMeshPro.Editor.dll
+Exit code: 0
+Elapsed time: 0.13 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:27 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-fe5aa5c5a318ecc478558df193bd1f16
+Exit code: 1
+Elapsed time: 0.41 sec
+
+- Output (9 lines):
+0: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(5,24): error CS0234: The type or namespace name 'Tasks' does not exist in the namespace 'System.Threading' (are you missing an assembly reference?)
+1: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(7,35): error CS0246: The type or namespace name 'TaskScheduler' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(14,33): error CS0246: The type or namespace name 'Task' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(22,36): error CS0246: The type or namespace name 'Task' could not be found (are you missing a using directive or an assembly reference?)
+4: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(30,47): error CS0246: The type or namespace name 'Task' could not be found (are you missing a using directive or an assembly reference?)
+5: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(14,39): error CS0115: 'UnityTaskScheduler.GetScheduledTasks()': no suitable method found to override
+6: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(22,26): error CS0115: 'UnityTaskScheduler.QueueTask(Task)': no suitable method found to override
+7: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(30,26): error CS0115: 'UnityTaskScheduler.TryExecuteTaskInline(Task, bool)': no suitable method found to override
+8: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(10,30): error CS0246: The type or namespace name 'Task' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:54 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: Unity.TextMeshPro.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-edd8c78df78d57c46853fba6eea3b097
+Exit code: 0
+Elapsed time: 1.96 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Unity.TextMeshPro.dll
+Exit code: 0
+Elapsed time: 0.23 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:54 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: UnityEditor.StandardEvents.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-4cbde93f4bb5ab942b7933316e432689
+Exit code: 0
+Elapsed time: 2.38 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\UnityEditor.StandardEvents.dll
+Exit code: 0
+Elapsed time: 0.16 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:57 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: Unity.TextMeshPro.Editor.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-9a4b7aea72c01fe4ba135c530f5ba850
+Exit code: 0
+Elapsed time: 1.97 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Unity.TextMeshPro.Editor.dll
+Exit code: 0
+Elapsed time: 0.15 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:54 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: Unity.PackageManagerUI.Editor.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-721b94ac3039eab438586bb08c434e66
+Exit code: 0
+Elapsed time: 2.54 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Unity.PackageManagerUI.Editor.dll
+Exit code: 0
+Elapsed time: 0.20 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                   Wednesday, September 5, 2018 3:20:59 AM                    *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.4.230
+Unity version: 2018.2.6f1
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: C:\Users\KitsuneMako\Desktop\New Unity Project
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.3 (2.8.0.62830)
+
+- Compilation ------------------------------------------------
+
+Process: C:\Users\KitsuneMako\Desktop\New Unity Project\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-10af1f54b0eb52d4c86532a2a90e9e04
+Exit code: 1
+Elapsed time: 0.47 sec
+
+- Output (9 lines):
+0: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(5,24): error CS0234: The type or namespace name 'Tasks' does not exist in the namespace 'System.Threading' (are you missing an assembly reference?)
+1: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(7,35): error CS0246: The type or namespace name 'TaskScheduler' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(14,33): error CS0246: The type or namespace name 'Task' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(22,36): error CS0246: The type or namespace name 'Task' could not be found (are you missing a using directive or an assembly reference?)
+4: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(30,47): error CS0246: The type or namespace name 'Task' could not be found (are you missing a using directive or an assembly reference?)
+5: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(14,39): error CS0115: 'UnityTaskScheduler.GetScheduledTasks()': no suitable method found to override
+6: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(22,26): error CS0115: 'UnityTaskScheduler.QueueTask(Task)': no suitable method found to override
+7: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(30,26): error CS0115: 'UnityTaskScheduler.TryExecuteTaskInline(Task, bool)': no suitable method found to override
+8: Assets\CSharp vNext Support\AsyncTools\UnityTaskScheduler.cs(10,30): error CS0246: The type or namespace name 'Task' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
